@@ -1,2 +1,1 @@
-creates text1.txt file
-my name is santhiya
+
